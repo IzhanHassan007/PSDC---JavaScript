@@ -3,15 +3,10 @@
 // Create a MarkSheet and assign a user grade based on percentage.
 
 // If percentage greater than equal to 90 => 'A'
-
 // If percentage greater than equal to 80 => 'B'
-
 // If percentage greater than equal to 70 => 'C'
-
 // If percentage greater than equal to 60 => 'D'
-
 // If percentage less than 60 => 'You are Fail'
-
 // MarkSheet Program to Assign Grade Based on Percentage with Random Marks
 
 // Generate Random Obtained Marks using Math.random()
