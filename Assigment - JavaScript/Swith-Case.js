@@ -32,3 +32,4 @@ switch(trafficLights){
         default:
             console.log("Invalid")
 }
+
